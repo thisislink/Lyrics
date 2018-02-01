@@ -5,6 +5,7 @@ But when we talked, you blew my mind like a comet
 You started a fire in my heart
 My past like a Picasso but you saw me like a fine art
 
+
 Let us just ease in
 We have good reason
 Love evergreen like Sequoia seasons
