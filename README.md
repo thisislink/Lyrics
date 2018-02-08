@@ -10,3 +10,4 @@ Songwriting project I started on 01.31.2018 to write 1 song per day. End time un
 | 5 |[Best I Can](https://github.com/thisislink/Lyrics/blob/master/BestICan.txt)| 02.04.2018
 | 6 |[I Have My Reasons](https://github.com/thisislink/Lyrics/blob/master/IHaveMyReasons.txt)| 02.05.2018
 | 7 |[Uncover The Beast](https://github.com/thisislink/Lyrics/blob/master/UncoverTheBeast.txt)| 02.06.2018
+| 8 |[Hero In Some Way](https://github.com/thisislink/Lyrics/blob/master/HeroInSomeWay.txt)| 02.07.2018
