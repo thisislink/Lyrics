@@ -13,4 +13,4 @@ Songwriting project I started on 01.31.2018 to write 1 song per day. End time un
 | 8 |[Hero In Some Way](https://github.com/thisislink/Lyrics/blob/master/Songs/HeroInSomeWay.txt)| 02.07.2018
 | 9 |[Embrace The Unknown](https://github.com/thisislink/Lyrics/blob/master/Songs/EmbraceTheUnknown.txt)| 02.08.2018
 | 10|[I.M.P.R.O.V.E.](https://github.com/thisislink/Lyrics/blob/master/Songs/I.M.P.R.O.V.E..txt)| 02.09.2018
-| 11|[She Knows A Thing Or Two](https://github.com/thisislink/Lyrics/blob/master/Songs/SheKnowsAThingOrTwo.txt)| 02.09.2018
+| 11|[She Knows A Thing Or Two](https://github.com/thisislink/Lyrics/blob/master/Songs/SheKnowsAThingOrTwo.txt)| 02.10.2018
