@@ -20,3 +20,4 @@ Songwriting project I started on 01.31.2018 to write 1 song per day. End time un
 | 15|[I'm Right Here](https://github.com/thisislink/Lyrics/blob/master/Songs/ImRightHere.txt)| 02.14.2018
 | 16|[Forever](https://github.com/thisislink/Lyrics/blob/master/Songs/Forever.txt)| 02.15.2018
 | 17|[Escape](https://github.com/thisislink/Lyrics/blob/master/Songs/Escape.txt)| 02.16.2018
+| 18|[How Do You Know](https://github.com/thisislink/Lyrics/blob/master/Songs/HowDoYouKnow.txt)| 02.17.2018
