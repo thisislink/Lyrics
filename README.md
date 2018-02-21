@@ -22,3 +22,4 @@ Songwriting project I started on 01.31.2018 to write 1 song per day. End time un
 | 17|[Escape](https://github.com/thisislink/Lyrics/blob/master/Songs/Escape.txt)| 02.16.2018
 | 18|[How Do You Know](https://github.com/thisislink/Lyrics/blob/master/Songs/HowDoYouKnow.txt)| 02.17.2018
 | 19|[Love You Any Less](https://github.com/thisislink/Lyrics/blob/master/Songs/LoveYouAnyLess.txt)| 02.18.2018
+| 20|[On The Shelf](https://github.com/thisislink/Lyrics/blob/master/Songs/OnTheShelf.txt)| 02.19.2018
