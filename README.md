@@ -25,5 +25,5 @@ Songwriting project I started on 01.31.2018 to write 1 song per day. End time un
 | 20|[On The Shelf](https://github.com/thisislink/Lyrics/blob/master/Songs/OnTheShelf.txt)| 02.19.2018
 | 21|[Perfect](https://github.com/thisislink/Lyrics/blob/master/Songs/Perfect.txt)| 02.20.2018
 | 22|[How We Deal](https://github.com/thisislink/Lyrics/blob/master/Songs/HowWeDeal.txt)| 02.21.2018
-
+| 23|[Rinse And Repeat](https://github.com/thisislink/Lyrics/blob/master/Songs/RinseAndRepeat.txt)| 02.22.2018
 
