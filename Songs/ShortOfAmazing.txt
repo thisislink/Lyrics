@@ -14,3 +14,4 @@ barber
 cut
 police
 faith
+ring
