@@ -29,4 +29,6 @@ Songwriting project I started on 01.31.2018 to write 1 song per day. End time un
 | 24|[Showing You My Love Is Clear](https://github.com/thisislink/Lyrics/blob/master/Songs/ShowingYouMyLoveIsClear.txt)| 02.23.2018
 | 25|[Nickel Slots](https://github.com/thisislink/Lyrics/blob/master/Songs/NickelSlots.txt)| 02.24.2018
 | 26|[Short Of Amazing](https://github.com/thisislink/Lyrics/blob/master/Songs/ShortOfAmazing.txt)| 02.25.2018
+| 27|[Dear Me](https://github.com/thisislink/Lyrics/blob/master/Songs/DearMe.txt)| 02.26.2018
+
 
