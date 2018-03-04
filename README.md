@@ -34,3 +34,4 @@ Songwriting project I started on 01.31.2018 to write 1 song per day. End time un
 | 29|[I Found It](https://github.com/thisislink/Lyrics/blob/master/Songs/IFoundIt.txt)| 02.28.2018
 | 30|[Fall For Me](https://github.com/thisislink/Lyrics/blob/master/Songs/FallForMe.txt)| 03.01.2018
 | 31|[Shadow](https://github.com/thisislink/Lyrics/blob/master/Songs/Shadow.txt)| 03.02.2018
+| 32|[Simple Decisions](https://github.com/thisislink/Lyrics/blob/master/Songs/SimpleDecisions.txt)| 03.03.2018
