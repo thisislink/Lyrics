@@ -37,3 +37,4 @@ Songwriting project I started on 01.31.2018 to write 1 song per day. End time un
 | 32|[Simple Decisions](https://github.com/thisislink/Lyrics/blob/master/Songs/SimpleDecisions.txt)| 03.03.2018
 | 33|[Your Name Or The Season](https://github.com/thisislink/Lyrics/blob/master/Songs/YourNameOrTheSeason.txt)| 03.04.2018
 | 34|[Mold Me](https://github.com/thisislink/Lyrics/blob/master/Songs/MoldMe.txt)| 03.05.2018
+| 35|[Company](https://github.com/thisislink/Lyrics/blob/master/Songs/Company.txt)| 03.06.2018
