@@ -40,3 +40,4 @@ Songwriting project I started on 01.31.2018 to write 1 song per day. End time un
 | 35|[Company](https://github.com/thisislink/Lyrics/blob/master/Songs/Company.txt)| 03.06.2018
 | 36|[With Patience](https://github.com/thisislink/Lyrics/blob/master/Songs/WithPatience.txt)| 03.07.2018
 | 37|[Avocado Tacos](https://github.com/thisislink/Lyrics/blob/master/Songs/AvocadoTacos.txt)| 03.08.2018
+| 38|[60 Watt](https://github.com/thisislink/Lyrics/blob/master/Songs/60Watt.txt)| 03.09.2018
