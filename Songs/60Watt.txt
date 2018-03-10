@@ -1,9 +1,7 @@
 Title: 60 Watt
 Writer: Daphne Link
 
-nest
-bird
-blue jay
+
 honey
 honey bee
 bee
@@ -13,6 +11,9 @@ time
 wood
 forest
 serene
+
+Page one was a little dark
+Someone along page 50 I made my mark
 
 
 Meeting you I feel blessed
