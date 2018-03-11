@@ -3,6 +3,7 @@ Songwriting project I started on 01.31.2018 to write 1 song per day. End time un
 
 | Song Number | Title | Date Written |
 |---|---|---|
+|39|[Familiar Encounter](https://github.com/thisislink/Lyrics/blob/master/Songs/FamiliarEncounter.txt)| 03.10.2018
 |38|[60 Watt](https://github.com/thisislink/Lyrics/blob/master/Songs/60Watt.txt)| 03.09.2018
 |37|[Avocado Tacos](https://github.com/thisislink/Lyrics/blob/master/Songs/AvocadoTacos.txt)| 03.08.2018
 |36|[With Patience](https://github.com/thisislink/Lyrics/blob/master/Songs/WithPatience.txt)| 03.07.2018
