@@ -3,6 +3,7 @@ Songwriting project I started on 01.31.2018 to write 1 song per day. End time un
 
 | Song Number | Title | Date Written |
 |---|---|---|
+|43|[Love Me](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/LoveMe.txt)| 03.14.2018
 |42|[Sleepy](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/Sleepy.txt)| 03.13.2018
 |41|[Visalia (Cover Rewrite)](https://github.com/thisislink/Lyrics/blob/master/Covers/Visalia.txt)| 03.12.2018
 |40|[Real Friends (Cover Rewrite)](https://github.com/thisislink/Lyrics/blob/master/Covers/RealFriends.txt)| 03.11.2018
