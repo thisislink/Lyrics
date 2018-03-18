@@ -3,6 +3,7 @@ Songwriting project I started on 01.31.2018 to write 1 song per day. End time un
 
 | Song Number | Title | Date Written |
 |---|---|---|
+|46|[Write Me A Song](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/WriteMeASong.txt)| 03.17.2018
 |45|[Is It Too Late](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/IsItTooLate.txt)| 03.16.2018
 |44|[Plain Simple](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/PlainSimple.txt)| 03.15.2018
 |43|[Love Me (Cover Rewrite)](https://github.com/thisislink/Lyrics/blob/master/Covers/LoveMe.txt)| 03.14.2018
