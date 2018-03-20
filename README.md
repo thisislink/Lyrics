@@ -3,6 +3,7 @@ Songwriting project I started on 01.31.2018 to write 1 song per day. End time un
 
 | Song Number | Title | Date Written |
 |---|---|---|
+|48|[In Your Eyes](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/InYourEyes.txt)| 03.19.2018
 |47|[Classic](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/Classic.txt)| 03.18.2018
 |46|[Write Me A Song](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/WriteMeASong.txt)| 03.17.2018
 |45|[Is It Too Late](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/IsItTooLate.txt)| 03.16.2018
