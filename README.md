@@ -3,6 +3,7 @@ Songwriting project I started on 01.31.2018 to write 1 song per day. End time un
 
 | Song Number | Title | Date Written |
 |---|---|---|
+|53|[Love Wanted Signs](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/LoveWantedSigns.txt)| 03.24.2018
 |52|[Under The Covers](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/UnderTheCovers.txt)| 03.23.2018
 |51|[Start Again](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/StartAgain.txt)| 03.22.2018
 |50|[Lay Her Down](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/LayHerDown.txt)| 03.21.2018
