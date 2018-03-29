@@ -3,6 +3,7 @@ Songwriting project I started on 01.31.2018 to write 1 song per day. End time un
 
 | Song Number | Title | Date Written |
 |---|---|---|
+|57|[Directions](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/Directions.txt)| 03.28.2018
 |56|[No Words](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/NoWords.txt)| 03.27.2018
 |55|[Nike](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/Nike.txt)| 03.26.2018
 |54|[Memory](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/Memory.txt)| 03.25.2018
