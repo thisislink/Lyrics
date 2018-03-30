@@ -1,8 +1,9 @@
 # Lyrics
-Songwriting project I started on 01.31.2018 to write 1 song per day. End time unknown.
+Songwriting project I started on 01.31.2018 to write 1 song, everyday for 100 days.
 
 | Song Number | Title | Date Written |
 |---|---|---|
+|58|[No Motives](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/NoMotives.txt)| 03.29.2018
 |57|[Directions](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/Directions.txt)| 03.28.2018
 |56|[No Words](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/NoWords.txt)| 03.27.2018
 |55|[Nike](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/Nike.txt)| 03.26.2018
