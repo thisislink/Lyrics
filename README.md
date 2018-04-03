@@ -3,6 +3,7 @@ Songwriting project I started on 01.31.2018 to write 1 song, everyday for 100 da
 
 | Song Number | Title | Date Written |
 |---|---|---|
+|62|[Want To Get Home](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/WantToGetHome.txt)| 04.02.2018
 |61|[It's Not Over](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/ItsNotOver.txt)| 04.01.2018
 |60|[Why I Wrote This](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/WhyIWroteThis.txt)| 03.31.2018
 |59|[Afraid To Dream](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/AfraidToDream.txt)| 03.30.2018
