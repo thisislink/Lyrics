@@ -3,6 +3,42 @@ Songwriting project I started on 01.31.2018 to write 1 song, everyday for 100 da
 
 | Song Number | Title | Date Written |
 |---|---|---|
+|100|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 05.11.2018
+|99|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 05.10.2018
+|98|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 05.08.2018
+|97|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 05.07.2018
+|96|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 05.06.2018
+|95|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 05.05.2018
+|94|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 05.04.2018
+|93|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 05.03.2018
+|92|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 05.02.2018
+|91|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 05.01.2018
+|90|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.30.2018
+|89|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.29.2018
+|88|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.28.2018
+|87|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.27.2018
+|86|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.26.2018
+|85|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.25.2018
+|84|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.24.2018
+|83|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.23.2018
+|82|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.22.2018
+|81|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.21.2018
+|80|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.20.2018
+|79|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.19.2018
+|78|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.18.2018
+|77|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.17.2018
+|76|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.16.2018
+|75|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.15.2018
+|74|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.14.2018
+|73|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.13.2018
+|72|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.12.2018
+|71|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.11.2018
+|70|[]](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.10.2018
+|69|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.09.2018
+|68|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.08.2018
+|67|[]](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.07.2018
+|66|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.06.2018
+|65|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.05.2018
 |64|[When It's Real](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/WhenItsReal.txt)| 04.04.2018
 |63|[Toothache](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/Toothache.txt)| 04.03.2018
 |62|[Want To Get Home](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/WantToGetHome.txt)| 04.02.2018
