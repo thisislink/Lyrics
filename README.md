@@ -37,7 +37,7 @@ Songwriting project I started on 01.31.2018 to write 1 song, everyday for 100 da
 |69|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.09.2018
 |68|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.08.2018
 |67|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.07.2018
-|66|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.06.2018
+|66|[What Can I Be](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/WhatCanIBe.txt)| 04.06.2018
 |65|[Inside Out](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/InsideOut.txt)| 04.05.2018
 |64|[When It's Real](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/WhenItsReal.txt)| 04.04.2018
 |63|[Toothache](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/Toothache.txt)| 04.03.2018
