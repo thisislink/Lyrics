@@ -34,7 +34,7 @@ Songwriting project I started on 01.31.2018 to write 1 song, everyday for 100 da
 |72|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.12.2018
 |71|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.11.2018
 |70|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.10.2018
-|69|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.09.2018
+|69|[Shiny Girl (Collab)](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/ShinyGirl.txt)| 04.09.2018
 |68|[French Fries](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/FrenchFries.txt)| 04.08.2018
 |67|[I Googled You](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/IGoogledYou.txt)| 04.07.2018
 |66|[What Can I Be](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/WhatCanIBe.txt)| 04.06.2018
