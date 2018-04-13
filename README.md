@@ -31,7 +31,7 @@ Songwriting project I started on 01.31.2018 to write 1 song, everyday for 100 da
 |75|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.15.2018
 |74|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.14.2018
 |73|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.13.2018
-|72|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.12.2018
+|72|[Pretty Simple](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/PrettySimple.txt)| 04.12.2018
 |71|[Where Are You Now? (Cover Rewrite)](https://github.com/thisislink/Lyrics/blob/master/Covers/WhereAreYouNow.txt)| 04.11.2018
 |70|[More Than You Think](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/MoreThanYouThink.txt)| 04.10.2018
 |69|[Shiny Girl (Collab)](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/ShinyGirl.txt)| 04.09.2018
