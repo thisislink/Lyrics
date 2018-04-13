@@ -25,7 +25,11 @@ license
 drive
 plan
 morning tea
-earl grey
+
+If I'm having tea, earl grey
+I want to offer you some, no delay
+If you struggle to buy food
+Let me give you some, brighten your mood
 
 When will we be as one
 Stop judging what someone's done
