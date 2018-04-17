@@ -27,7 +27,7 @@ Songwriting project I started on 01.31.2018 to write 1 song, everyday for 100 da
 |79|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.19.2018
 |78|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.18.2018
 |77|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.17.2018
-|76|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.16.2018
+|76|[Pure](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/Pure.txt)| 04.16.2018
 |75|[This Is The End](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/ThisIsTheEnd.txt)| 04.15.2018
 |74|[Waiting On The Rain](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/WaitingOnTheRain.txt)| 04.14.2018
 |73|[Lentils](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/Lentils.txt)| 04.13.2018
