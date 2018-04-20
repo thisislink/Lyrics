@@ -24,7 +24,7 @@ Songwriting project I started on 01.31.2018 to write 1 song, everyday for 100 da
 |82|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.22.2018
 |81|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.21.2018
 |80|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.20.2018
-|79|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.19.2018
+|79|[Love Letters](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/LoveLetters.txt)| 04.19.2018
 |78|[Let It Break Me](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/LetItBreakMe.txt)| 04.18.2018
 |77|[Purse Proud](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/PurseProud.txt)| 04.17.2018
 |76|[Pure](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/Pure.txt)| 04.16.2018
