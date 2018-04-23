@@ -21,7 +21,7 @@ Songwriting project I started on 01.31.2018 to write 1 song, everyday for 100 da
 |85|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.25.2018
 |84|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.24.2018
 |83|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.23.2018
-|82|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.22.2018
+|82|[Not Done](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/NotDone.txt)| 04.22.2018
 |81|[Crush On You](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/CrushOnYou.txt)| 04.21.2018
 |80|[Never Meant To Hurt You](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/NeverMeantToHurtYou.txt)| 04.20.2018
 |79|[Love Letters](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/LoveLetters.txt)| 04.19.2018
