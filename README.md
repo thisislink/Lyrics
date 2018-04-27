@@ -17,7 +17,7 @@ Songwriting project I started on 01.31.2018 to write 1 song, everyday for 100 da
 |89|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.29.2018
 |88|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.28.2018
 |87|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.27.2018
-|86|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.26.2018
+|86|[If I'm The One](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/IfImTheOne.txt)| 04.26.2018
 |85|[Where Am I](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/WhereAmI.txt)| 04.25.2018
 |84|[Down To The Wire](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/DownToTheWire.txt)| 04.24.2018
 |83|[Spilled My Water](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/SpilledMyWater.txt)| 04.23.2018
