@@ -16,7 +16,7 @@ Songwriting project I started on 01.31.2018 to write 1 song, everyday for 100 da
 |90|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.30.2018
 |89|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.29.2018
 |88|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.28.2018
-|87|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.27.2018
+|87|[Hotline Bling (Cover Rewrite)](https://github.com/thisislink/Lyrics/blob/master/Covers/HotlineBling.txt)| 04.27.2018
 |86|[If I'm The One](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/IfImTheOne.txt)| 04.26.2018
 |85|[Where Am I](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/WhereAmI.txt)| 04.25.2018
 |84|[Down To The Wire](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/DownToThewire.txt)| 04.24.2018
