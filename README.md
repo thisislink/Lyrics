@@ -13,7 +13,7 @@ Songwriting project I started on 01.31.2018 to write 1 song, everyday for 100 da
 |93|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 05.03.2018
 |92|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 05.02.2018
 |91|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 05.01.2018
-|90|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 04.30.2018
+|90|[Wrong Way](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/WrongWay.txt)| 04.30.2018
 |89|[You Already Won](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/YouAlreadyWon.txt)| 04.29.2018
 |88|[30 Minutes](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/30Minutes.txt)| 04.28.2018
 |87|[Hotline Bling (Cover Rewrite)](https://github.com/thisislink/Lyrics/blob/master/Covers/HotlineBling.txt)| 04.27.2018
