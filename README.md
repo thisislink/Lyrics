@@ -11,7 +11,7 @@ Songwriting project I started on 01.31.2018 to write 1 song, everyday for 100 da
 |95|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 05.05.2018
 |94|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 05.04.2018
 |93|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 05.03.2018
-|92|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 05.02.2018
+|92|[Lowkey](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/Lowkey.txt)| 05.02.2018
 |91|[When I Breathe](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/WhenIBreathe.txt)| 05.01.2018
 |90|[Wrong Way](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/WrongWay.txt)| 04.30.2018
 |89|[You Already Won](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/YouAlreadyWon.txt)| 04.29.2018
