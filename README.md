@@ -9,7 +9,7 @@ Songwriting project I started on 01.31.2018 to write 1 song, everyday for 100 da
 |97|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 05.07.2018
 |96|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 05.06.2018
 |95|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 05.05.2018
-|94|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 05.04.2018
+|94|[I'll Go](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/IllGo.txt)| 05.04.2018
 |93|[That Was A Day](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/ThatWasADay.txt)| 05.03.2018
 |92|[Lowkey](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/Lowkey.txt)| 05.02.2018
 |91|[When I Breathe](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/WhenIBreathe.txt)| 05.01.2018
