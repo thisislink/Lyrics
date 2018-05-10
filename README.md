@@ -4,7 +4,7 @@ Songwriting project I started on 01.31.2018 to write 1 song, everyday for 100 da
 | Song Number | Title | Date Written |
 |---|---|---|
 |100|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 05.10.2018
-|99|[](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/.txt)| 05.09.2018
+|99|[Focus My Mind](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/FocusMyMind.txt)| 05.09.2018
 |98|[Wine (Cover Rewrite)](https://github.com/thisislink/Lyrics/blob/master/Covers/Wine.txt)| 05.08.2018
 |97|[Lost In A Book](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/LostInABook.txt)| 05.07.2018
 |96|[Like Today](https://github.com/thisislink/Lyrics/blob/master/Original_Songs/LikeToday.txt)| 05.06.2018
